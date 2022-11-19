@@ -1,8 +1,10 @@
 - 👋 Hi, I’m @Darshan-2021-11
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Web Development & Machine Learning
+- 🌱 I’m currently learning React and working with NodeJS
+- 💞️ I’m looking to collaborate on Web Development and Machine learning projects.
+- 📫 How to reach me: 
+      1. Email: darshanrajpattanaik.gcekjr@gmail.com
+      2. LinkedIn: https://www.linkedin.com/in/darshanraj-p-40b282179/
 
 <!---
 Darshan-2021-11/Darshan-2021-11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
