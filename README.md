@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Darshan-2021-11
 - 👀 I’m interested in Web Development & Machine Learning
 - 🌱 I’m currently learning React and working with NodeJS
-- 💞️ I’m looking to collaborate on Web Development and Machine learning projects.
+- 💞️ I’m looking to collaborate on Real time projects with React...
 - 📫 How to reach me: 
       1. Email: darshanrajpattanaik.gcekjr@gmail.com
       2. LinkedIn: https://www.linkedin.com/in/darshanraj-p-40b282179/
