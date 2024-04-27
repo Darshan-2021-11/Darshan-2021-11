@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning React and working with NodeJS
 - 💞️ I’m looking to collaborate on Real time projects with React...
 - 📫 How to reach me: 
-- 1. Email: darshanrajpattanaik.gcekjr@gmail.com
+- 1. Email: darshanrajpattanaik3@gmail.com
 - 2. LinkedIn: https://www.linkedin.com/in/darshanraj-p-40b282179/
 
 <!---
